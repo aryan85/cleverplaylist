@@ -1,0 +1,11 @@
+com/musicbot/db/PlaylistDao.class
+com/musicbot/search/SearchCriteria.class
+com/musicbot/tagging/TagExtractor$ExtractedTags.class
+com/musicbot/model/Song.class
+com/musicbot/BotRunner.class
+com/musicbot/MusicBot.class
+com/musicbot/db/SongDao.class
+com/musicbot/db/Database.class
+com/musicbot/search/SearchParser.class
+com/musicbot/tagging/TagExtractor.class
+com/musicbot/model/Playlist.class
